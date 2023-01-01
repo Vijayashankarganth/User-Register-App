@@ -1,0 +1,98 @@
+.register{
+    
+    padding:5px 0 10px 0 ;
+    text-align: center;
+    width:33%;
+    margin-left: 33%;
+    margin-top: 90px;
+    border-radius: 20px;
+    height:855px;
+  
+
+}
+
+.register label{
+    font-size: 100%;
+    font-family: Verdana;
+}
+.register input[type='text']
+{
+    height:30px;
+    width:75%;
+    margin-top: 5%;
+    border-radius:6px;
+    padding-left: 10px;
+    font-size: 100%;
+    margin-bottom:10px;
+}
+
+.register input[type='email']
+{
+    height:30px;
+    width:75%;
+    margin-top: 5%;
+    border-radius:6px;
+    padding-left: 10px;
+    font-size: 100%;
+    margin-bottom:10px;
+}
+
+.register textarea
+{
+    height:30px;
+    width:75%;
+    margin-top: 5%;
+    border-radius:6px;
+    padding-left: 10px;
+    font-size: 100%;
+    margin-bottom:10px;
+}
+.register select
+{
+    height:30px;
+    width:75%;
+    margin-top: 5%;
+    border-radius:6px;
+    padding-left: 10px;
+    font-size: 100%;
+    margin-bottom:10px;
+}
+.register input[type='password']
+{
+    height:30px;
+    width:75%;
+    margin-top: 5%;
+    border-radius:6px;
+    padding-left: 10px;
+    font-size: 110%;
+    margin-bottom:10px;
+}
+.register ::placeholder{
+
+    text-align: center;
+}
+
+.register input[type='submit']{
+    margin:20px;  
+    background-color: rgba(34, 144, 207, 0.815);
+    border:1px solid transparent;
+    border-radius:6px;
+    padding:8px 20px;
+    color:white;
+    font-size: 110%;
+    cursor:pointer;
+
+}
+.register span{
+    color:red;
+    font-weight:500;
+}
+
+.background{
+    background-color: rgba(237, 213, 213, 0.815);
+    margin-top: 50px;
+    position:absolute;
+    margin-left: -200px;
+    width:900px;
+    box-shadow: 6px 6px 6px gray;
+}

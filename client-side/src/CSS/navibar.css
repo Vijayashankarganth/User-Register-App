@@ -1,0 +1,22 @@
+.navigation{
+    padding: 20px;
+    width: 98%;
+    margin-left: -0.3%;
+    background-color: rgb(16, 155, 155);
+    font-size: large;
+ 
+}
+
+.navigation span{
+    font-size: 150%;
+    color: white;
+}
+
+.link{
+    margin-top: -0.5%;
+    float:right;
+    margin-right: 10px;
+    text-decoration: none;
+    color: white;
+   
+}
